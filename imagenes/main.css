@@ -1,0 +1,78 @@
+
+
+
+
+
+p {
+
+  color: hsla(245, 78%, 25%, 0.741);
+}
+
+
+input {
+  background-color: blue;
+}
+
+
+h5 {
+  color: blue;
+}
+.container-fluid img {
+  height: 2rem;
+}
+#buscador {
+  width: 8 rem;
+}
+.buscadorycheckboxs {
+  margin-top: 0.6rem;
+  margin-bottom: 1.5rem;
+}
+.carousel-inner img {
+  height: 250px;
+}
+form {
+  color: rgb(161, 23, 23);
+}
+body > footer {
+  background-color: #98bbdb7c;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 2rem;
+}
+footer {
+  background-color: #8a0a16bd;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 2rem;
+}
+
+.nav-link {
+  color: firebrick;
+}
+#containercontact textarea {
+  height: 100px;
+
+}
+
+
+
+.maindetails{
+padding: 30vh;
+
+}
+
+#submitcontact {
+  right: 0;
+}
+.subtitle_table {
+  text-align: center;
+}
+#containerdetails img {
+  height: fit-content;
+  padding-top: 1rem;
+}
+table th,
+td {
+  border: solid black 1px;
+  height: 2rem;
+}
